@@ -11,9 +11,5 @@
   </a>
 <div/>
 <hr />
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=slashmili&show_icons=true&include_all_commits=true&theme=radical)
-
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=slashmili&layout=compact&theme=radical&hide=Ruby,javascript,html)
-  
+ 
 </div>
